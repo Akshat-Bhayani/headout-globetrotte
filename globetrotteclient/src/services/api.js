@@ -1,0 +1,35 @@
+import axios from 'axios';
+
+const API_BASE_URL = 'http://localhost:5000/api';
+
+const destinationApi = {
+    getAllDestinations: () => {
+        return axios.get(`${API_BASE_URL}/destinations`);
+    },
+
+    getDestination: (id) => {
+        return axios.get(`${API_BASE_URL}/destinations/${id}`);
+    },
+
+    createDestination: (destinationData) => {
+        return axios.post(`${API_BASE_URL}/destinations`, destinationData);
+    },
+
+    updateDestination: (id, destinationData) => {
+        return axios.patch(`${API_BASE_URL}/destinations/${id}`, destinationData);
+    },
+
+    deleteDestination: (id) => {
+        return axios.delete(`${API_BASE_URL}/destinations/${id}`);
+    },
+
+    getRandomDestination: () => {
+        return axios.get(`${API_BASE_URL}/destinations/random`);
+    },
+
+    verifyAnswer: (id, answer) => {
+        return axios.post(`${API_BASE_URL}/destinations/verify/${id}`, { answer });
+    }
+};
+
+export default destinationApi; 

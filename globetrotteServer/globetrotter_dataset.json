@@ -1,0 +1,1203 @@
+[
+    {
+        "destination": "Paris, France",
+        "clues": [
+            "City of lights, love, and a pointy tower.",
+            "Where a certain 'Mona' keeps her mysterious smile."
+        ],
+        "funFacts": [
+            "There's only one stop sign in the entire city.",
+            "The Eiffel Tower grows taller in the summer due to thermal expansion."
+        ],
+        "trivia": "What famous art museum in Paris houses the Mona Lisa?"
+    },
+    {
+        "destination": "Machu Picchu, Peru",
+        "clues": [
+            "A lost city nestled high in the Andes.",
+            "Once a royal retreat for an ancient empire."
+        ],
+        "funFacts": [
+            "The site was relatively unknown until 1911.",
+            "No mortar was used to build the walls."
+        ],
+        "trivia": "Which ancient civilization built Machu Picchu?"
+    },
+    {
+        "destination": "Kyoto, Japan",
+        "clues": [
+            "Home to over 1,600 temples.",
+            "Cherry blossoms turn the city pink every spring."
+        ],
+        "funFacts": [
+            "Kyoto was once the capital of Japan.",
+            "The famous Fushimi Inari Shrine has over 10,000 torii gates."
+        ],
+        "trivia": "What is Kyoto's most famous festival held in July?"
+    },
+    {
+        "destination": "Cape Town, South Africa",
+        "clues": [
+            "Nestled beneath a flat-topped mountain.",
+            "Penguins roam its beaches."
+        ],
+        "funFacts": [
+            "Table Mountain has its own cloud called 'The Tablecloth'.",
+            "Cape Town is home to the southernmost winery in Africa."
+        ],
+        "trivia": "What ocean borders Cape Town?"
+    },
+    {
+        "destination": "Santorini, Greece",
+        "clues": [
+            "Famous for whitewashed houses with blue domes.",
+            "Built on a volcanic caldera."
+        ],
+        "funFacts": [
+            "The island was shaped by a massive volcanic eruption.",
+            "Santorini wine is renowned worldwide."
+        ],
+        "trivia": "Which sea surrounds Santorini?"
+    },
+    {
+        "destination": "New York City, USA",
+        "clues": [
+            "The city that never sleeps.",
+            "A statue welcomes you to its harbor."
+        ],
+        "funFacts": [
+            "NYC has more languages spoken than any city in the world.",
+            "Central Park is larger than the country of Monaco."
+        ],
+        "trivia": "What year was the Statue of Liberty gifted to the USA?"
+    },
+    {
+        "destination": "Petra, Jordan",
+        "clues": [
+            "A city carved from red rock.",
+            "Known as the 'Rose City'."
+        ],
+        "funFacts": [
+            "Petra was a thriving trade center over 2,000 years ago.",
+            "It remained hidden to the Western world until the 1800s."
+        ],
+        "trivia": "What famous structure in Petra appears in 'Indiana Jones'?"
+    },
+    {
+        "destination": "Venice, Italy",
+        "clues": [
+            "City built on water.",
+            "Gondolas glide through its streets."
+        ],
+        "funFacts": [
+            "Venice consists of 118 islands connected by canals.",
+            "It slowly sinks a few millimeters each year."
+        ],
+        "trivia": "What festival fills Venice with masks every year?"
+    },
+    {
+        "destination": "Great Barrier Reef, Australia",
+        "clues": [
+            "Largest living structure on Earth.",
+            "Visible even from space."
+        ],
+        "funFacts": [
+            "It stretches over 2,300 kilometers.",
+            "Over 1,500 species of fish live here."
+        ],
+        "trivia": "What sea is home to the Great Barrier Reef?"
+    },
+    {
+        "destination": "Istanbul, Turkey",
+        "clues": [
+            "Straddles two continents.",
+            "Home to a grand blue mosque."
+        ],
+        "funFacts": [
+            "It was formerly called Byzantium and Constantinople.",
+            "The Grand Bazaar has over 4,000 shops."
+        ],
+        "trivia": "What famous waterway runs through Istanbul?"
+    },
+    {
+        "destination": "Rio de Janeiro, Brazil",
+        "clues": [
+            "A giant statue watches over the city.",
+            "Famous for a colorful carnival."
+        ],
+        "funFacts": [
+            "The Christ the Redeemer statue is one of the New Seven Wonders.",
+            "Rio's Copacabana Beach stretches for 4 km."
+        ],
+        "trivia": "What hilltop landmark offers panoramic views of Rio?"
+    },
+    {
+        "destination": "Cairo, Egypt",
+        "clues": [
+            "Home to the last surviving Ancient Wonder.",
+            "The Nile flows through it."
+        ],
+        "funFacts": [
+            "Cairo is the largest city in Africa.",
+            "It's nicknamed 'The City of a Thousand Minarets'."
+        ],
+        "trivia": "Which pharaoh's tomb was discovered nearly intact in 1922?"
+    },
+    {
+        "destination": "Reykjavik, Iceland",
+        "clues": [
+            "The northernmost capital in the world.",
+            "You can bathe in blue geothermal waters."
+        ],
+        "funFacts": [
+            "Iceland runs almost entirely on renewable energy.",
+            "You can see the Northern Lights here in winter."
+        ],
+        "trivia": "What's the name of the famous geothermal spa near Reykjavik?"
+    },
+    {
+        "destination": "Dubrovnik, Croatia",
+        "clues": [
+            "Known as the 'Pearl of the Adriatic'.",
+            "Its walls starred in a famous TV series."
+        ],
+        "funFacts": [
+            "The city walls stretch for almost 2 km.",
+            "Dubrovnik was a major maritime power in the 15th century."
+        ],
+        "trivia": "Which popular fantasy series filmed many scenes in Dubrovnik?"
+    },
+    {
+        "destination": "Banff National Park, Canada",
+        "clues": [
+            "Turquoise lakes surrounded by towering peaks.",
+            "A popular spot for skiing and hiking."
+        ],
+        "funFacts": [
+            "Banff is Canada's first national park.",
+            "Lake Louise's color comes from glacial rock flour."
+        ],
+        "trivia": "Which Canadian province is home to Banff?"
+    },
+    {
+        "destination": "Marrakech, Morocco",
+        "clues": [
+            "Known as the 'Red City'.",
+            "Its medina is a maze of souks and stalls."
+        ],
+        "funFacts": [
+            "Marrakech's Jemaa el-Fnaa square comes alive at night.",
+            "The city is famous for its vibrant gardens."
+        ],
+        "trivia": "What mountain range lies near Marrakech?"
+    },
+    {
+        "destination": "Hanoi, Vietnam",
+        "clues": [
+            "The heart of a Southeast Asian country.",
+            "Known for lakes, pagodas, and pho."
+        ],
+        "funFacts": [
+            "Hanoi has a 'Train Street' with trains passing through a narrow lane.",
+            "The Old Quarter has 36 historic streets."
+        ],
+        "trivia": "What is Vietnam's national dish?"
+    },
+    {
+        "destination": "Queenstown, New Zealand",
+        "clues": [
+            "The adventure capital of the world.",
+            "Nestled by a lake and surrounded by mountains."
+        ],
+        "funFacts": [
+            "Bungy jumping was commercialized here.",
+            "Queenstown sits on Lake Wakatipu."
+        ],
+        "trivia": "Which famous film trilogy was shot near Queenstown?"
+    },
+    {
+        "destination": "Barcelona, Spain",
+        "clues": [
+            "A city where Gaudi's imagination comes to life.",
+            "Home to a famous unfinished basilica."
+        ],
+        "funFacts": [
+            "Barcelona's beaches were man-made for the Olympics.",
+            "The Sagrada Familia has been under construction for over 140 years."
+        ],
+        "trivia": "What's the name of Barcelona's iconic pedestrian street?"
+    },
+    {
+        "destination": "Siem Reap, Cambodia",
+        "clues": [
+            "Gateway to an ancient temple complex.",
+            "Stone faces smile from its towers."
+        ],
+        "funFacts": [
+            "Angkor Wat is the largest religious monument in the world.",
+            "Siem Reap's night market is famous for street food."
+        ],
+        "trivia": "What ancient empire built Angkor Wat?"
+    },
+    {
+        "destination": "Santorini, Greece",
+        "clues": [
+            "Famous for whitewashed buildings with blue domes.",
+            "Perched on the edge of a volcanic caldera."
+        ],
+        "funFacts": [
+            "Santorini's sunsets are world-renowned.",
+            "The island was shaped by a massive volcanic eruption around 1600 BC."
+        ],
+        "trivia": "What is the capital town of Santorini?"
+    },
+    {
+        "destination": "Petra, Jordan",
+        "clues": [
+            "An ancient city carved into red rock.",
+            "Also known as the 'Rose City'."
+        ],
+        "funFacts": [
+            "Petra was a key trading hub for the Nabateans.",
+            "It was rediscovered by Swiss explorer Johann Burckhardt in 1812."
+        ],
+        "trivia": "What is the name of the iconic temple facade at Petra's entrance?"
+    },
+    {
+        "destination": "Cape Town, South Africa",
+        "clues": [
+            "A city with a famous flat-topped mountain.",
+            "Located at the meeting point of two oceans."
+        ],
+        "funFacts": [
+            "Table Mountain is over 260 million years old.",
+            "Robben Island, nearby, housed Nelson Mandela for 18 years."
+        ],
+        "trivia": "What ocean lies to the west of Cape Town?"
+    },
+    {
+        "destination": "Kyoto, Japan",
+        "clues": [
+            "A city famous for temples, shrines, and cherry blossoms.",
+            "Once the imperial capital of Japan."
+        ],
+        "funFacts": [
+            "Kyoto has over 1,600 temples.",
+            "The famous Fushimi Inari Shrine has thousands of red torii gates."
+        ],
+        "trivia": "What traditional Japanese performance art originated in Kyoto?"
+    },
+    {
+        "destination": "Machu Picchu, Peru",
+        "clues": [
+            "An ancient Incan city high in the Andes.",
+            "Its stone terraces overlook a dramatic valley."
+        ],
+        "funFacts": [
+            "Machu Picchu was rediscovered by Hiram Bingham in 1911.",
+            "It's often called the 'Lost City of the Incas'."
+        ],
+        "trivia": "What river flows below Machu Picchu?"
+    },
+    {
+        "destination": "Prague, Czech Republic",
+        "clues": [
+            "Known as the 'City of a Hundred Spires'.",
+            "A historic castle overlooks its famous bridge."
+        ],
+        "funFacts": [
+            "Prague Castle is the largest ancient castle in the world.",
+            "The Astronomical Clock has been working since 1410."
+        ],
+        "trivia": "What river runs through Prague?"
+    },
+    {
+        "destination": "Amalfi Coast, Italy",
+        "clues": [
+            "A stretch of colorful cliffside villages.",
+            "Famous for its lemon groves and coastal views."
+        ],
+        "funFacts": [
+            "The Amalfi Drive is considered one of the most scenic routes in the world.",
+            "Limoncello originated here."
+        ],
+        "trivia": "Which famous Mediterranean island is visible from the Amalfi Coast?"
+    },
+    {
+        "destination": "Sydney, Australia",
+        "clues": [
+            "Home to a world-famous opera house.",
+            "A massive natural harbor surrounds the city."
+        ],
+        "funFacts": [
+            "Sydney Opera House's roof was inspired by seashells.",
+            "Bondi Beach is a popular surfing spot."
+        ],
+        "trivia": "What bridge connects the Sydney central business district with the North Shore?"
+    },
+    {
+        "destination": "Cartagena, Colombia",
+        "clues": [
+            "A historic walled city on the Caribbean coast.",
+            "Known for colorful colonial architecture."
+        ],
+        "funFacts": [
+            "Cartagena was a key Spanish port in the colonial era.",
+            "Its old city is a UNESCO World Heritage Site."
+        ],
+        "trivia": "Which famous author, known for 'One Hundred Years of Solitude,' lived in Cartagena?"
+    },
+    {
+        "destination": "Zermatt, Switzerland",
+        "clues": [
+            "A village beneath a famous triangular peak.",
+            "No cars allowed here — only electric taxis."
+        ],
+        "funFacts": [
+            "The Matterhorn is one of the most photographed mountains in the world.",
+            "Zermatt is a popular base for mountaineers and skiers."
+        ],
+        "trivia": "What is the name of the iconic mountain towering over Zermatt?"
+    },
+    {
+        "destination": "Siem Reap, Cambodia",
+        "clues": [
+            "Gateway to a famous ancient temple complex.",
+            "The temples here appear on the country's flag."
+        ],
+        "funFacts": [
+            "Angkor Wat is the largest religious monument in the world.",
+            "The complex covers over 400 square kilometers."
+        ],
+        "trivia": "Which civilization built Angkor Wat?"
+    },
+    {
+        "destination": "Queenstown, New Zealand",
+        "clues": [
+            "Famous for adventure sports and stunning alpine scenery.",
+            "Located on the shores of Lake Wakatipu."
+        ],
+        "funFacts": [
+            "Queenstown is considered the birthplace of commercial bungee jumping.",
+            "It was named after Queen Victoria."
+        ],
+        "trivia": "What mountain range surrounds Queenstown?"
+    },
+    {
+        "destination": "Dubrovnik, Croatia",
+        "clues": [
+            "A historic walled city on the Adriatic Sea.",
+            "Often called the 'Pearl of the Adriatic'."
+        ],
+        "funFacts": [
+            "Dubrovnik's walls stretch almost 2 kilometers.",
+            "It was a key filming location for 'Game of Thrones'."
+        ],
+        "trivia": "Which UNESCO designation does Dubrovnik hold?"
+    },
+    {
+        "destination": "Rio de Janeiro, Brazil",
+        "clues": [
+            "Home to a giant Christ statue overlooking the city.",
+            "Known for its Carnival festival and beaches."
+        ],
+        "funFacts": [
+            "Christ the Redeemer is 98 feet tall.",
+            "Copacabana and Ipanema are two of its famous beaches."
+        ],
+        "trivia": "What is the name of the famous mountain with a cable car?"
+    },
+    {
+        "destination": "Marrakech, Morocco",
+        "clues": [
+            "Known for its vibrant souks and palaces.",
+            "Located near the foothills of the Atlas Mountains."
+        ],
+        "funFacts": [
+            "Marrakech's medina is a UNESCO World Heritage site.",
+            "Jemaa el-Fnaa square is one of the busiest squares in Africa."
+        ],
+        "trivia": "What color is closely associated with Marrakech's buildings?"
+    },
+    {
+        "destination": "Reykjavik, Iceland",
+        "clues": [
+            "The northernmost capital city in the world.",
+            "Famous for geothermal pools and northern lights."
+        ],
+        "funFacts": [
+            "Reykjavik means 'Smoky Bay'.",
+            "The city runs almost entirely on renewable energy."
+        ],
+        "trivia": "What is the name of the famous church in Reykjavik?"
+    },
+    {
+        "destination": "Jaipur, India",
+        "clues": [
+            "Known as the Pink City.",
+            "Home to opulent palaces and forts."
+        ],
+        "funFacts": [
+            "Jaipur's Hawa Mahal has 953 windows.",
+            "It is part of India's famous 'Golden Triangle' tourist circuit."
+        ],
+        "trivia": "Which fort near Jaipur is made of red sandstone?"
+    },
+    {
+        "destination": "Banff, Canada",
+        "clues": [
+            "A picturesque town in the Canadian Rockies.",
+            "Famous for turquoise lakes and snowy peaks."
+        ],
+        "funFacts": [
+            "Banff is Canada's first national park.",
+            "Lake Louise is a short drive away."
+        ],
+        "trivia": "In which province is Banff located?"
+    },
+    {
+        "destination": "Fez, Morocco",
+        "clues": [
+            "Known for its ancient walled medina.",
+            "Home to the world's oldest existing university."
+        ],
+        "funFacts": [
+            "The University of Al Quaraouiyine was founded in 859 AD.",
+            "Fez is known for its intricate tile work and leather tanneries."
+        ],
+        "trivia": "What type of hat is named after Fez?"
+    },
+    {
+        "destination": "Galápagos Islands, Ecuador",
+        "clues": [
+            "A volcanic archipelago in the Pacific Ocean.",
+            "Famous for its unique wildlife."
+        ],
+        "funFacts": [
+            "Charles Darwin developed his theory of evolution here.",
+            "The islands are a UNESCO World Heritage site."
+        ],
+        "trivia": "What famous tortoise species is native to these islands?"
+    },
+    {
+        "destination": "Cusco, Peru",
+        "clues": [
+            "Once the capital of the Inca Empire.",
+            "Located high in the Andes Mountains."
+        ],
+        "funFacts": [
+            "Cusco's historic center is a UNESCO site.",
+            "It's the gateway to Machu Picchu."
+        ],
+        "trivia": "What does 'Cusco' mean in Quechua?"
+    },
+    {
+        "destination": "Bruges, Belgium",
+        "clues": [
+            "Known as the 'Venice of the North'.",
+            "Filled with canals, medieval buildings, and chocolate shops."
+        ],
+        "funFacts": [
+            "Bruges was a major trading hub in medieval Europe.",
+            "Its Belfry tower offers stunning city views."
+        ],
+        "trivia": "What sweet treat is Bruges especially known for?"
+    },
+    {
+        "destination": "Hoi An, Vietnam",
+        "clues": [
+            "An ancient port city with lantern-lit streets.",
+            "Known for its preserved architecture."
+        ],
+        "funFacts": [
+            "Hoi An was a major trading port in the 15th century.",
+            "It's famous for tailor-made clothing."
+        ],
+        "trivia": "What river runs through Hoi An?"
+    },
+    {
+        "destination": "Tallinn, Estonia",
+        "clues": [
+            "A medieval capital with cobbled streets.",
+            "Located on the Baltic Sea."
+        ],
+        "funFacts": [
+            "Tallinn's old town is a UNESCO site.",
+            "Estonia is one of the most digitally advanced countries."
+        ],
+        "trivia": "What tower is a symbol of Tallinn's skyline?"
+    },
+    {
+        "destination": "Seychelles",
+        "clues": [
+            "An island nation in the Indian Ocean.",
+            "Famous for pristine beaches and giant tortoises."
+        ],
+        "funFacts": [
+            "Seychelles has 115 islands.",
+            "Aldabra Atoll is the largest raised coral atoll in the world."
+        ],
+        "trivia": "What is the capital of Seychelles?"
+    },
+    {
+        "destination": "Dubrovnik, Croatia",
+        "clues": [
+            "A walled city with stunning coastal views.",
+            "Known for its medieval architecture."
+        ],
+        "funFacts": [
+            "Dubrovnik is a popular cruise destination.",
+            "Its Old Town is a UNESCO World Heritage site."
+        ],
+        "trivia": "Which sea borders Dubrovnik?"
+    },
+    {
+        "destination": "Phuket, Thailand",
+        "clues": [
+            "A tropical island known for beaches and nightlife.",
+            "The largest island in its country."
+        ],
+        "funFacts": [
+            "Phuket attracts over 9 million tourists a year.",
+            "It's famous for the nearby Phi Phi Islands."
+        ],
+        "trivia": "What sea surrounds Phuket?"
+    },
+    {
+        "destination": "Valparaíso, Chile",
+        "clues": [
+            "A colorful port city with hillside funiculars.",
+            "Known for vibrant street art."
+        ],
+        "funFacts": [
+            "Valparaíso is nicknamed 'The Jewel of the Pacific'.",
+            "It's home to one of Chile's oldest newspapers."
+        ],
+        "trivia": "Which famous poet had a house here?"
+    },
+    {
+        "destination": "Colmar, France",
+        "clues": [
+            "A charming town with half-timbered houses.",
+            "Located in the Alsace wine region."
+        ],
+        "funFacts": [
+            "Colmar is known for its Christmas markets.",
+            "The town inspired scenes in Disney's 'Beauty and the Beast'."
+        ],
+        "trivia": "What famous drink is produced in Alsace?"
+    },
+    {
+        "destination": "Muscat, Oman",
+        "clues": [
+            "A port city known for its historic forts and mosques.",
+            "Located on the Arabian Sea."
+        ],
+        "funFacts": [
+            "Muscat is one of the oldest cities in the Middle East.",
+            "The Sultan Qaboos Grand Mosque can hold over 20,000 worshippers."
+        ],
+        "trivia": "What is the official language of Oman?"
+    },
+    {
+        "destination": "Cappadocia, Turkey",
+        "clues": [
+            "Known for unique rock formations and cave dwellings.",
+            "Famous for hot air balloon rides."
+        ],
+        "funFacts": [
+            "The region's landscape was formed by volcanic eruptions.",
+            "Cappadocia has extensive underground cities."
+        ],
+        "trivia": "What material are Cappadocia's fairy chimneys made of?"
+    },
+    {
+        "destination": "Santorini, Greece",
+        "clues": [
+            "An island with whitewashed buildings and blue domes.",
+            "Formed by a volcanic eruption."
+        ],
+        "funFacts": [
+            "Santorini is part of the Cyclades islands.",
+            "The island's sunsets are world famous."
+        ],
+        "trivia": "What sea surrounds Santorini?"
+    },
+    {
+        "destination": "Petra, Jordan",
+        "clues": [
+            "An ancient city carved into rose-red cliffs.",
+            "Known as the 'Lost City'."
+        ],
+        "funFacts": [
+            "Petra was once the capital of the Nabatean Kingdom.",
+            "It's one of the New Seven Wonders of the World."
+        ],
+        "trivia": "Which movie famously featured Petra?"
+    },
+    {
+        "destination": "Serengeti, Tanzania",
+        "clues": [
+            "A vast African savanna famous for wildlife migration.",
+            "Home to lions, elephants, and rhinos."
+        ],
+        "funFacts": [
+            "The Great Migration involves over 1.5 million wildebeest.",
+            "Serengeti means 'endless plains' in Maasai."
+        ],
+        "trivia": "Which neighboring country does the Serengeti stretch into?"
+    },
+    {
+        "destination": "Kyoto, Japan",
+        "clues": [
+            "Known for ancient temples and cherry blossoms.",
+            "Once the imperial capital of Japan."
+        ],
+        "funFacts": [
+            "Kyoto has over 1,600 Buddhist temples.",
+            "The city is famous for its traditional tea ceremonies."
+        ],
+        "trivia": "What famous pavilion in Kyoto is covered in gold leaf?"
+    },
+    {
+        "destination": "Venice, Italy",
+        "clues": [
+            "A city built on canals.",
+            "Famous for gondolas and the Grand Canal."
+        ],
+        "funFacts": [
+            "Venice is made up of 118 islands.",
+            "The city hosts a world-famous Carnival."
+        ],
+        "trivia": "What is the name of Venice's main square?"
+    },
+    {
+        "destination": "Great Barrier Reef, Australia",
+        "clues": [
+            "The world's largest coral reef system.",
+            "Visible from space."
+        ],
+        "funFacts": [
+            "The reef supports over 1,500 species of fish.",
+            "It stretches over 2,300 kilometers."
+        ],
+        "trivia": "In which Australian state is the reef located?"
+    },
+    {
+        "destination": "Lisbon, Portugal",
+        "clues": [
+            "The capital of Portugal.",
+            "Known for its hills, trams, and pastel buildings."
+        ],
+        "funFacts": [
+            "Lisbon is one of the oldest cities in Europe.",
+            "The city was hit by a massive earthquake in 1755."
+        ],
+        "trivia": "Which river flows through Lisbon?"
+    },
+    {
+        "destination": "Machu Picchu, Peru",
+        "clues": [
+            "An ancient Incan citadel in the Andes.",
+            "Rediscovered in 1911."
+        ],
+        "funFacts": [
+            "Machu Picchu sits at 2,430 meters above sea level.",
+            "Its construction technique is earthquake resistant."
+        ],
+        "trivia": "What explorer is credited with discovering Machu Picchu?"
+    },
+    {
+        "destination": "Prague, Czech Republic",
+        "clues": [
+            "Known as the 'City of a Hundred Spires'.",
+            "Famous for its Old Town Square and castle."
+        ],
+        "funFacts": [
+            "Prague's Astronomical Clock dates back to 1410.",
+            "It's home to the largest ancient castle in the world."
+        ],
+        "trivia": "What river runs through Prague?"
+    },
+    {
+        "destination": "Cape Town, South Africa",
+        "clues": [
+            "Famous for a flat-topped mountain.",
+            "Located at the southern tip of Africa."
+        ],
+        "funFacts": [
+            "Table Mountain is one of the New7Wonders of Nature.",
+            "Robben Island nearby once housed Nelson Mandela."
+        ],
+        "trivia": "What two oceans meet near Cape Town?"
+    },
+    {
+        "destination": "Chichen Itza, Mexico",
+        "clues": [
+            "A famous Mayan archaeological site.",
+            "Home to the iconic El Castillo pyramid."
+        ],
+        "funFacts": [
+            "Chichen Itza was a major economic hub.",
+            "The site includes a giant ball court."
+        ],
+        "trivia": "What astronomical event aligns with El Castillo's steps?"
+    },
+    {
+        "destination": "Barcelona, Spain",
+        "clues": [
+            "Known for Gaudí's architectural masterpieces.",
+            "Home to one of the world's best football teams."
+        ],
+        "funFacts": [
+            "Sagrada Familia's construction started in 1882.",
+            "Barcelona has 9 UNESCO World Heritage Sites."
+        ],
+        "trivia": "What beachside neighborhood is famous in Barcelona?"
+    },
+    {
+        "destination": "Hallstatt, Austria",
+        "clues": [
+            "A lakeside village surrounded by mountains.",
+            "Famous for its salt mines."
+        ],
+        "funFacts": [
+            "Hallstatt is one of the oldest settlements in Europe.",
+            "The nearby Dachstein Ice Cave attracts visitors year-round."
+        ],
+        "trivia": "In which Austrian region is Hallstatt located?"
+    },
+    {
+        "destination": "Dubai, UAE",
+        "clues": [
+            "Home to the world's tallest building.",
+            "Known for luxury shopping and desert safaris."
+        ],
+        "funFacts": [
+            "Burj Khalifa is 828 meters tall.",
+            "Dubai has an indoor ski resort in a desert."
+        ],
+        "trivia": "What man-made island resembles a palm tree?"
+    },
+    {
+        "destination": "Amsterdam, Netherlands",
+        "clues": [
+            "Known for its canals and cycling culture.",
+            "Home to Anne Frank's house."
+        ],
+        "funFacts": [
+            "Amsterdam has more bikes than people.",
+            "The city's canal ring is a UNESCO site."
+        ],
+        "trivia": "What flower is closely associated with the Netherlands?"
+    },
+    {
+        "destination": "New Orleans, USA",
+        "clues": [
+            "Famous for jazz music and Mardi Gras.",
+            "Located near the Mississippi River."
+        ],
+        "funFacts": [
+            "The French Quarter dates back to 1718.",
+            "New Orleans is known for its unique Creole cuisine."
+        ],
+        "trivia": "What drink was invented at the Sazerac Bar?"
+    },
+    {
+        "destination": "Bhutan",
+        "clues": [
+            "Known as the 'Land of the Thunder Dragon'.",
+            "Home to cliffside monasteries."
+        ],
+        "funFacts": [
+            "Bhutan measures Gross National Happiness.",
+            "Tiger's Nest Monastery is its most famous landmark."
+        ],
+        "trivia": "What is Bhutan's capital?"
+    },
+    {
+        "destination": "Edinburgh, Scotland",
+        "clues": [
+            "Known for its castle and annual festival.",
+            "Built on volcanic rock."
+        ],
+        "funFacts": [
+            "The Edinburgh Fringe is the world's largest arts festival.",
+            "Arthur's Seat is an ancient volcano in the city."
+        ],
+        "trivia": "What famous detective author lived in Edinburgh?"
+    },
+    {
+        "destination": "Antigua, Guatemala",
+        "clues": [
+            "A colonial city surrounded by volcanoes.",
+            "Known for its colorful buildings and cobbled streets."
+        ],
+        "funFacts": [
+            "Antigua was Guatemala's capital until 1773.",
+            "Semana Santa processions are world-famous."
+        ],
+        "trivia": "What language is commonly spoken in Antigua?"
+    },
+    {
+        "destination": "Queenstown, New Zealand",
+        "clues": [
+            "Known as the adventure capital of the world.",
+            "Located on the shores of Lake Wakatipu."
+        ],
+        "funFacts": [
+            "Bungee jumping was commercialized here.",
+            "Queenstown is surrounded by the Remarkables mountain range."
+        ],
+        "trivia": "Which famous fantasy film series was filmed nearby?"
+    },
+    {
+        "destination": "Dubrovnik, Croatia",
+        "clues": [
+            "Known as the 'Pearl of the Adriatic'.",
+            "Famous for its medieval walls and Old Town."
+        ],
+        "funFacts": [
+            "Dubrovnik's walls stretch for almost 2 kilometers.",
+            "It served as a filming location for Game of Thrones."
+        ],
+        "trivia": "Which sea borders Dubrovnik?"
+    },
+    {
+        "destination": "Angkor Wat, Cambodia",
+        "clues": [
+            "The largest religious monument in the world.",
+            "Originally a Hindu temple, later a Buddhist one."
+        ],
+        "funFacts": [
+            "Angkor Wat means 'City of Temples'.",
+            "The temple faces west, which is unusual."
+        ],
+        "trivia": "Which ancient empire built Angkor Wat?"
+    },
+    {
+        "destination": "Reykjavik, Iceland",
+        "clues": [
+            "The northernmost capital in the world.",
+            "Known for geothermal pools and Northern Lights."
+        ],
+        "funFacts": [
+            "Reykjavik means 'Smoky Bay'.",
+            "Iceland has no standing army."
+        ],
+        "trivia": "What is Iceland's official language?"
+    },
+    {
+        "destination": "Cinque Terre, Italy",
+        "clues": [
+            "A collection of five colorful cliffside villages.",
+            "Located along the Ligurian Sea."
+        ],
+        "funFacts": [
+            "Cinque Terre is a UNESCO World Heritage Site.",
+            "The villages are connected by scenic hiking trails."
+        ],
+        "trivia": "Which Italian region is home to Cinque Terre?"
+    },
+    {
+        "destination": "Marrakech, Morocco",
+        "clues": [
+            "Known for its vibrant souks and palaces.",
+            "Called the 'Red City' due to its buildings."
+        ],
+        "funFacts": [
+            "Jemaa el-Fnaa square is a UNESCO Cultural Heritage site.",
+            "Marrakech dates back to the Berber Empire."
+        ],
+        "trivia": "What mountain range lies near Marrakech?"
+    },
+    {
+        "destination": "Banff, Canada",
+        "clues": [
+            "A resort town in the Canadian Rockies.",
+            "Located within a national park."
+        ],
+        "funFacts": [
+            "Banff National Park was Canada's first national park.",
+            "The town sits at over 1,300 meters elevation."
+        ],
+        "trivia": "In which Canadian province is Banff located?"
+    },
+    {
+        "destination": "Luang Prabang, Laos",
+        "clues": [
+            "A spiritual city with Buddhist temples.",
+            "Located at the confluence of the Mekong and Nam Khan Rivers."
+        ],
+        "funFacts": [
+            "Luang Prabang was once the royal capital of Laos.",
+            "It is known for its daily alms-giving ceremony."
+        ],
+        "trivia": "What is the official currency of Laos?"
+    },
+    {
+        "destination": "Salar de Uyuni, Bolivia",
+        "clues": [
+            "The world's largest salt flat.",
+            "Creates a mirror effect when covered with water."
+        ],
+        "funFacts": [
+            "The salt flat spans over 10,000 square kilometers.",
+            "It contains the world's largest lithium reserves."
+        ],
+        "trivia": "What rare bird can be found at Salar de Uyuni?"
+    },
+    {
+        "destination": "Hoi An, Vietnam",
+        "clues": [
+            "A historic trading port with colorful lanterns.",
+            "Known for its well-preserved Ancient Town."
+        ],
+        "funFacts": [
+            "Hoi An's Old Town is a UNESCO site.",
+            "The town's architecture reflects Chinese, Japanese, and French influences."
+        ],
+        "trivia": "Which river flows through Hoi An?"
+    },
+    {
+        "destination": "Lhasa, Tibet",
+        "clues": [
+            "A sacred city at high altitude.",
+            "Home to the iconic Potala Palace."
+        ],
+        "funFacts": [
+            "Lhasa means 'Place of the Gods'.",
+            "The Jokhang Temple is Tibet's holiest site."
+        ],
+        "trivia": "Which spiritual leader once resided in Lhasa?"
+    },
+    {
+        "destination": "Fez, Morocco",
+        "clues": [
+            "Famous for its ancient medina and tanneries.",
+            "Known for its intricate blue pottery."
+        ],
+        "funFacts": [
+            "Fez's medina is one of the largest pedestrian zones in the world.",
+            "The University of Al Quaraouiyine, in Fez, is the world's oldest university."
+        ],
+        "trivia": "What is Fez's famous hat called?"
+    },
+    {
+        "destination": "Lake Bled, Slovenia",
+        "clues": [
+            "Famous for a church on an island.",
+            "Surrounded by mountains and forests."
+        ],
+        "funFacts": [
+            "Bled Castle overlooks the lake.",
+            "Pletna boats are traditional wooden rowboats used on the lake."
+        ],
+        "trivia": "What European mountain range is near Lake Bled?"
+    },
+    {
+        "destination": "Blue Lagoon, Iceland",
+        "clues": [
+            "A geothermal spa with milky blue waters.",
+            "Located in a lava field."
+        ],
+        "funFacts": [
+            "The lagoon's water comes from a nearby power plant.",
+            "The water is rich in silica and minerals."
+        ],
+        "trivia": "What is the capital of Iceland?"
+    },
+    {
+        "destination": "Zermatt, Switzerland",
+        "clues": [
+            "A mountain resort beneath a famous peak.",
+            "Known for year-round skiing."
+        ],
+        "funFacts": [
+            "Zermatt lies at the foot of the Matterhorn.",
+            "It is car-free to preserve its environment."
+        ],
+        "trivia": "Which famous Swiss chocolate bar features the Matterhorn?"
+    },
+    {
+        "destination": "Cartagena, Colombia",
+        "clues": [
+            "A coastal city with colorful colonial buildings.",
+            "Known for its fortress and beaches."
+        ],
+        "funFacts": [
+            "Cartagena's walled city is a UNESCO site.",
+            "The city was a major port for Spanish treasure fleets."
+        ],
+        "trivia": "Which sea borders Cartagena?"
+    },
+    {
+        "destination": "Valley of Fire, USA",
+        "clues": [
+            "A desert park known for red sandstone formations.",
+            "Located in Nevada."
+        ],
+        "funFacts": [
+            "The park's rocks date back 150 million years.",
+            "The landscape glows during sunrise and sunset."
+        ],
+        "trivia": "Which city is closest to the Valley of Fire?"
+    },
+    {
+        "destination": "Tikal, Guatemala",
+        "clues": [
+            "An ancient Mayan city deep in the jungle.",
+            "Famous for towering pyramids."
+        ],
+        "funFacts": [
+            "Tikal was one of the most powerful Mayan cities.",
+            "The ruins span over 16 square kilometers."
+        ],
+        "trivia": "What kind of animals are often seen at Tikal?"
+    },
+    {
+        "destination": "Socotra, Yemen",
+        "clues": [
+            "An island with alien-like dragon's blood trees.",
+            "Located in the Arabian Sea."
+        ],
+        "funFacts": [
+            "Socotra has hundreds of endemic species.",
+            "It's been called the 'Galapagos of the Indian Ocean'."
+        ],
+        "trivia": "Which country does Socotra belong to?"
+    },
+    {
+        "destination": "Palawan, Philippines",
+        "clues": [
+            "A tropical paradise with limestone cliffs and lagoons.",
+            "Home to the Puerto Princesa Underground River."
+        ],
+        "funFacts": [
+            "Palawan was named the 'World's Best Island'.",
+            "It is part of the Coral Triangle, rich in marine biodiversity."
+        ],
+        "trivia": "What sea surrounds Palawan?"
+    },
+    {
+        "destination": "Hampi, India",
+        "clues": [
+            "Ancient city full of boulders and ruins.",
+            "Once the capital of the Vijayanagara Empire."
+        ],
+        "funFacts": [
+            "Hampi is a UNESCO World Heritage Site.",
+            "Its landscape resembles a natural sculpture park."
+        ],
+        "trivia": "Which river flows through Hampi?"
+    },
+    {
+        "destination": "Shillong, India",
+        "clues": [
+            "This hill station is known as the Scotland of the East.",
+            "Famous for its rock music culture and waterfalls."
+        ],
+        "funFacts": [
+            "It is the capital of Meghalaya.",
+            "It receives some of the heaviest rainfall in the world."
+        ],
+        "trivia": "Which famous Asian music festival originated here?"
+    },
+    {
+        "destination": "Rann of Kutch, India",
+        "clues": [
+            "A vast white salt desert.",
+            "It hosts an annual cultural festival celebrating Gujarati heritage."
+        ],
+        "funFacts": [
+            "It can be seen from space due to its size and whiteness.",
+            "It becomes a seasonal marshland during monsoon."
+        ],
+        "trivia": "What is the name of the famous winter festival held here?"
+    },
+    {
+        "destination": "Khajuraho, India",
+        "clues": [
+            "Famous for its stunning temple sculptures.",
+            "The temples depict various aspects of life, including love and war."
+        ],
+        "funFacts": [
+            "It was once home to over 85 temples, but now only about 25 survive.",
+            "The temples are divided into Western, Eastern, and Southern groups."
+        ],
+        "trivia": "Which dynasty built these temples?"
+    },
+    {
+        "destination": "Sundarbans, India",
+        "clues": [
+            "Largest tidal halophytic mangrove forest in the world.",
+            "Famous for its elusive Royal Bengal Tigers."
+        ],
+        "funFacts": [
+            "It stretches across India and Bangladesh.",
+            "It is home to saltwater crocodiles and rare river dolphins."
+        ],
+        "trivia": "Which river delta forms the Sundarbans?"
+    },
+    {
+        "destination": "Spiti Valley, India",
+        "clues": [
+            "Cold desert mountain valley.",
+            "Known for its ancient monasteries and surreal landscapes."
+        ],
+        "funFacts": [
+            "It is one of the least populated regions in India.",
+            "The Key Monastery here is over 1,000 years old."
+        ],
+        "trivia": "In which Indian state is Spiti Valley located?"
+    },
+    {
+        "destination": "Puri, India",
+        "clues": [
+            "Famous temple town by the sea.",
+            "Host to an annual Rath Yatra festival."
+        ],
+        "funFacts": [
+            "It is one of the four Char Dham pilgrimage sites.",
+            "The temple kitchen is considered the largest in the world."
+        ],
+        "trivia": "Which deity is worshipped at the main temple here?"
+    },
+    {
+        "destination": "Cherrapunji, India",
+        "clues": [
+            "Known as one of the wettest places on Earth.",
+            "Home to living root bridges made by the Khasi tribe."
+        ],
+        "funFacts": [
+            "It receives around 450 inches of rain annually.",
+            "Despite heavy rains, water scarcity occurs in dry months."
+        ],
+        "trivia": "Which state is Cherrapunji located in?"
+    },
+    {
+        "destination": "Gokarna, India",
+        "clues": [
+            "A serene beach town with religious significance.",
+            "Known for its ‘Om Beach’ shaped like the sacred symbol."
+        ],
+        "funFacts": [
+            "It is a popular alternative to Goa for quieter beaches.",
+            "It houses the famous Mahabaleshwar Temple."
+        ],
+        "trivia": "Which sea borders Gokarna?"
+    },
+    {
+        "destination": "Ziro Valley, India",
+        "clues": [
+            "Known for lush green paddy fields and Apatani tribe.",
+            "Hosts an independent music festival every year."
+        ],
+        "funFacts": [
+            "It is a UNESCO World Heritage tentative site.",
+            "The Apatani people practice unique sustainable farming."
+        ],
+        "trivia": "In which state will you find Ziro Valley?"
+    }
+]
+
