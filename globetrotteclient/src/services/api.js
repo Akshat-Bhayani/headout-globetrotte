@@ -27,8 +27,8 @@ const destinationApi = {
         return axios.get(`${API_BASE_URL}/destinations/random`);
     },
 
-    verifyAnswer: (id, answer) => {
-        return axios.post(`${API_BASE_URL}/destinations/verify/${id}`, { answer });
+    verifyAnswer: (id, data) => {
+        return axios.post(`${API_BASE_URL}/destinations/verify/${id}`, data);
     }
 };
 

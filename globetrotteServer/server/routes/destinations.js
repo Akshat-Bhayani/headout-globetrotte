@@ -31,6 +31,13 @@ router.post('/verify/:id', async (req, res) => {
 
         const isCorrect = userAnswer === correctAnswer;
 
+        if(isCorrect){
+            
+        }
+        else{
+
+        }
+
         res.status(200).json({
             isCorrect,
             destination: destination.destination,

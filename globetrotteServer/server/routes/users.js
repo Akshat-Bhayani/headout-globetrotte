@@ -2,6 +2,7 @@ const express = require("express");
 const router = express.Router();
 const User = require("../models/User");
 const crypto = require("crypto");
+const Destination = require("../models/Destination");
 
 // Create new user
 router.post("/register", async (req, res) => {
@@ -62,6 +63,41 @@ router.get("/invite/:code", async (req, res) => {
       return res.status(404).json({ message: "User not found" });
     }
     res.json(user);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
+
+// Update user scores based on answer verification
+router.post('/verify/:id', async (req, res) => {
+  const { answer, username } = req.body;
+
+  try {
+    const destination = await Destination.findById(req.params.id);
+    if (!destination) {
+      return res.status(404).json({ message: 'Destination not found' });
+    }
+
+    const correctAnswer = destination.destination.toLowerCase().trim();
+    const isCorrect = answer.toLowerCase().trim() === correctAnswer;
+
+    // Update user scores
+    const user = await User.findOne({ username });
+    if (user) {
+      if (isCorrect) {
+        user.correctAnswers += 1; // Assuming you have a correctAnswers field
+      } else {
+        user.incorrectAnswers += 1; // Assuming you have an incorrectAnswers field
+      }
+      await user.save();
+    }
+
+    res.status(200).json({
+      isCorrect,
+      destination: destination.destination,
+      funFacts: destination.funFacts || [],
+      trivia: destination.trivia || ''
+    });
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
