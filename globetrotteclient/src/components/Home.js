@@ -10,7 +10,7 @@ const Home = () => {
     e.preventDefault();
     try {
       const response = await axios.post('/api/users/register', { username });
-      localStorage.setItem('userId', response.data._id);
+      sessionStorage.setItem('userId', response.data._id);
       localStorage.setItem('username', username);
       navigate('/game');
     } catch (error) {

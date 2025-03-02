@@ -70,7 +70,7 @@ router.get("/invite/:code", async (req, res) => {
 
 // Update user scores based on answer verification
 router.post('/verify/:id', async (req, res) => {
-  const { answer, username } = req.body;
+  const { answer, username, userId } = req.body;
 
   try {
     const destination = await Destination.findById(req.params.id);
@@ -82,12 +82,12 @@ router.post('/verify/:id', async (req, res) => {
     const isCorrect = answer.toLowerCase().trim() === correctAnswer;
 
     // Update user scores
-    const user = await User.findOne({ username });
+    const user = await User.findById(userId);
     if (user) {
       if (isCorrect) {
-        user.correctAnswers += 1; // Assuming you have a correctAnswers field
+        user.correctAnswers += 1;
       } else {
-        user.incorrectAnswers += 1; // Assuming you have an incorrectAnswers field
+        user.incorrectAnswers += 1;
       }
       await user.save();
     }
@@ -101,6 +101,19 @@ router.post('/verify/:id', async (req, res) => {
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
+});
+
+// Get user by ID
+router.get('/:id', async (req, res) => {
+    try {
+        const user = await User.findById(req.params.id);
+        if (!user) {
+            return res.status(404).json({ message: "User not found" });
+        }
+        res.status(200).json(user);
+    } catch (error) {
+        res.status(500).json({ message: error.message });
+    }
 });
 
 module.exports = router;

@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const Destination = require('../models/Destination');
+const User = require('../models/User');
 
 // Get random destination - Must come before /:id route
 router.get('/random', async (req, res) => {
@@ -21,6 +22,8 @@ router.get('/random', async (req, res) => {
 router.post('/verify/:id', async (req, res) => {
     try {
         const destination = await Destination.findById(req.params.id).lean();
+        const user = await User.findById(req.body.userId).lean();
+        console.log('userId',user);
         console.log('destination',destination);
         if (!destination) {
             return res.status(404).json({ message: 'Destination not found' });
@@ -32,19 +35,22 @@ router.post('/verify/:id', async (req, res) => {
         const isCorrect = userAnswer === correctAnswer;
 
         if(isCorrect){
-            
+            user.score.correct++;
         }
         else{
-
+            user.score.incorrect++;
         }
+        const updatedUser = await User.updateOne({__id: user.__id},user);
 
         res.status(200).json({
             isCorrect,
             destination: destination.destination,
             funFacts: destination.funFacts || [],
-            trivia: destination.trivia || ''
+            trivia: destination.trivia || '',
+            updatedUser
         });
     } catch (error) {
+    console.log('error.message',error.message);
         res.status(500).json({ message: error.message });
     }
 });

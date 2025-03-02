@@ -21,6 +21,11 @@ const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 db.once('open', () => console.log('Connected to MongoDB'));
 
+
+app.use(express.static(path.join(__dirname, 'client/build')));
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, 'client/build', 'index.html'));
+});
 // Routes
 const destinationsRouter = require('./routes/destinations');
 app.use('/api/destinations', destinationsRouter);
