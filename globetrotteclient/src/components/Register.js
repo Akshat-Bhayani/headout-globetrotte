@@ -7,7 +7,7 @@ const Register = () => {
 
     const handleRegister = async () => {
         try {
-            const response = await axios.post('http://localhost:5000/api/users/register', { username });
+            const response = await axios.post(`${process.env.REACT_APP_API_BASE_URL}/api/users/register`, { username });
             console.log('response.data._id',response.data._id);
             sessionStorage.setItem('userId', response.data._id); // Store user ID in session storage
             alert('Registration successful!');

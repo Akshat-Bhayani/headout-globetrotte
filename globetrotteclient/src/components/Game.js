@@ -9,7 +9,7 @@ import Feedback from "./Feedback";
 import UserAnswerForm from "./UserAnswerForm";
 import InviteFriend from "./InviteFriend";
 
-const API_URL = "http://localhost:5000/api";
+const API_URL = `${process.env.REACT_APP_API_BASE_URL}/api`;
 
 const Game = () => {
   const { inviteCode } = useParams();
